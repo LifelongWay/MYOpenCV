@@ -167,16 +167,12 @@ T = | 1   0  −x_min |
 ```
 
 ---
-
 ## 🧩 Results
+<p align="center">
+  <img width="820" height="387" alt="panorama_preview_rev_1"
+       src="https://github.com/user-attachments/assets/8e375b14-47da-4148-9fe4-bdbeabcc25bd" />
+</p>
 
-Sample panoramas generated:
-
-| Dataset           | Preview                           |
-| ----------------- | --------------------------------- |
-| **Paris**         | ![Paris panorama](preview1.jpg)   |
-| **North Campus**  | *see report for detailed results* |
-| **CMPE Building** | *see report for detailed results* |
 
 ---
 
